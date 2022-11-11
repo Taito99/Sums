@@ -37,7 +37,7 @@ namespace Sums
             {
 
                 ERROR2:
-                Console.WriteLine("Type a nuber if u want to exit a program type '0'");
+                Console.WriteLine("Type a number if u want to exit a program type '0'");
                 try
                 {
                     userInput = int.Parse(Console.ReadLine());
