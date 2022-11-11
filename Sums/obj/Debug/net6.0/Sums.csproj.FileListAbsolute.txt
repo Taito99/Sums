@@ -1,0 +1,15 @@
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\bin\Debug\net6.0\Sums.exe
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\bin\Debug\net6.0\Sums.deps.json
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\bin\Debug\net6.0\Sums.runtimeconfig.json
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\bin\Debug\net6.0\Sums.dll
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\bin\Debug\net6.0\Sums.pdb
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\obj\Debug\net6.0\Sums.csproj.AssemblyReference.cache
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\obj\Debug\net6.0\Sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\obj\Debug\net6.0\Sums.AssemblyInfoInputs.cache
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\obj\Debug\net6.0\Sums.AssemblyInfo.cs
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\obj\Debug\net6.0\Sums.csproj.CoreCompileInputs.cache
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\obj\Debug\net6.0\Sums.dll
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\obj\Debug\net6.0\ref\Sums.dll
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\obj\Debug\net6.0\Sums.pdb
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\obj\Debug\net6.0\Sums.genruntimeconfig.cache
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\Sums\Sums\obj\Debug\net6.0\refint\Sums.dll
